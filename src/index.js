@@ -1,5 +1,5 @@
 const smallTalk = () => {
-    console.log("Is this getting called")
+    console.log("Is this getting called new")
 }
 
 
